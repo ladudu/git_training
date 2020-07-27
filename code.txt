@@ -1,0 +1,1 @@
+pscp C:\Users\Administrator\Desktop\push7\ssec\ssec-demo@118.243.93.227:/home/ssec
